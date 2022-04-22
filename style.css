@@ -1,0 +1,9 @@
+h6 {
+  text-transform: uppercase;
+  font-weight: 600;
+  margin: 20px 0 0;
+  font-size: 1.125rem;
+  font-family: Roboto, sans-serif;
+  line-height: 1.2;
+  text-align: center;
+}
